@@ -11,9 +11,12 @@ This GitHub will contains WM Vare files and tutorials.
 Door comany hasn't got any pause.
 Bok.. Bb..
 
+If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
+
 
 
 # EULA
+(Made by EULA generator; valid for all products exepct search engine and WaterBox game)
 
 End-User License Agreement (EULA) of OS
 This End-User License Agreement ("EULA") is a legal agreement between you and Door. Our EULA was created by EULA Template for OS.
