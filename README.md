@@ -12,6 +12,7 @@ Door comany hasn't got any pause.
 Bok.. Bb..
 
 If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
+Unzip files from ringwormGO Website 2.0 is on ringwormGO GitHub site.
 
 
 
