@@ -17,7 +17,7 @@ If you can see code, then create new file and copy code.
 
 
 # EULA
-(Made by EULA generator; valid for all products exepct search engine and WaterBox game)
+(Made by EULA generator; valid for all products exepct search engine, WaterBox game and SPAMMATOR)
 
 End-User License Agreement (EULA) of OS
 This End-User License Agreement ("EULA") is a legal agreement between you and Door. Our EULA was created by EULA Template for OS.
