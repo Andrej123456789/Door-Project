@@ -19,6 +19,9 @@ Windows 8.1, Windows 10 or Windows 11 64 bit device
 64MB of free RAM
 Minimum max. speed of processor 1.10 GHz
 
+# BOT
+Voice version coming in C#.
+
 # EULA
 (Made by EULA generator; valid for all products exepct search engine, WaterBox game and SPAMMATOR)
 
