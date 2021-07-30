@@ -14,6 +14,8 @@ Bok.. Bb..
 If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
 If you can see code, then create new file and copy code.
 
+Door OS is sometimes has errors on 1080p resolution.
+
 # SYSTEM REQUIRETMENS
 Windows 8.1, Windows 10 or Windows 11 64 bit device
 64MB of free RAM
