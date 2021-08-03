@@ -4,6 +4,7 @@ Big thanks to ringwormGO.
 See their site: https://github.com/ringwormGO/ringwormGO
 
 New generation of my webbrower is on ringwormGO site (link in this data).
+Link for full zip file - https://github.com/Andrej123456789/Door-tutorials/blob/main/Debug.zip
 Bok.. Bb..
 
 This GitHub will contains WM Vare files and tutorials.
