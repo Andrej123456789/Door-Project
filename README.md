@@ -6,7 +6,7 @@ Our game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
 New generation of my webbrower is on ringwormGO site (link in this data).
 Link for full zip file - https://github.com/Andrej123456789/Door-tutorials/blob/main/Debug.zip
-3D PC SANDBOX game is on ringwormGo GitHub site/repo.
+3D PC SANDBOX game and installer is on ringwormGo GitHub site/repo.
 Bok.. Bb..
 
 This GitHub will contains WM Vare files and tutorials.
@@ -16,8 +16,6 @@ Bok.. Bb..
 
 If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
 If you can see code, then create new file and copy code.
-
-Door OS is sometimes has errors on 1080p resolution.
 
 # SYSTEM REQUIRETMENS
 Windows 8.1, Windows 10 or Windows 11 64 bit device
