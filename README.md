@@ -2,6 +2,9 @@
 All about software.
 Big thanks to ringwormGO.
 See their site: https://github.com/ringwormGO/ringwormGO
+
+If you have a problem, create new issue.
+
 Our game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
 New generation of my webbrower is on ringwormGO site (link in this data).
