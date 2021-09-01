@@ -30,5 +30,8 @@ Minimum max. speed of processor 1.10 GHz
 # BOT
 Voice version coming in C#.
 
+# VIRUS
+Find viruses in main branch.
+
 # LICENSE
 Read MIT license on ringwormGO GitHub repo.
