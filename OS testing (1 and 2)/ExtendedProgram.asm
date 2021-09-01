@@ -28,7 +28,9 @@ EnableA20:
 
 
 StartProtectedMode:
-
+	
+	;Here start first problem.
+	
 	mov ax, dataseg
 	mov ds, ax
 	mov ss, ax
@@ -39,6 +41,8 @@ StartProtectedMode:
 	mov [0xb8000], byte 'O'
 	mov [0xb8002], byte 'S'
 	
+	;Here ends first problem. In future more problems maybe come.
+	
 	call DetectCPUID
 	call DetectLongMode
 	call SetUpIdentityPaging
@@ -48,10 +52,15 @@ StartProtectedMode:
 [bits 64]
 
 Start64Bit:
+	
+	;Here start second problem
+	
 	mov edi, 0xb8000
 	mov rax, 0x1f201f201f201f20
 	mov ecx, 500
 	rep stosq
 	jmp $
+	
+	;Here ends second problem.
 
 times 2048-($-$$) db 0
