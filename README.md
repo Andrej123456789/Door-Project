@@ -2,6 +2,7 @@
 All about software.
 Big thanks to ringwormGO.
 See their site: https://github.com/ringwormGO/ringwormGO
+On ringwormGO site is ringwormGO/Door-Project Chrominium browser 2.
 
 If you have a problem, create new issue.
 
