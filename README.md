@@ -8,7 +8,8 @@ If you have a problem, create new issue.
 
 Our game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
-3D PC SANDBOX game and installer is on ringwormGo GitHub site/repo.
+3D PC SANDBOX game and installer is on ringwormGO GitHub site/repo.
+LockOS is also on ringwormGO GitHub repo.
 Bok.. Bb..
 
 This GitHub will contains WM Vare files and tutorials.
