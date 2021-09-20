@@ -20,7 +20,6 @@ Bok.. Bb..
 If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
 If you can see code, then create new file and copy code.
 
-
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
 
@@ -28,9 +27,5 @@ Windows 8.1, Windows 10 or Windows 11 64 bit device
 64MB of free RAM
 Minimum max. speed of processor 1.10 GHz
 
-
 # VIRUS
 Find viruses in main branch.
-
-# LICENSE
-Read MIT license on ringwormGO GitHub repo.
