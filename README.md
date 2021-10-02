@@ -1,23 +1,21 @@
 # Door-Project
 All about software.
-Big thanks to ringwormGO.
-See their site: https://github.com/ringwormGO/ringwormGO
-On ringwormGO site is ringwormGO/Door-Project Chrominium browser 2.
 
-If you have a problem, create new issue.
+Big thanks to ringwormGO.
+
+See their site: https://github.com/ringwormGO/ringwormGO
 
 Our game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
+If you have a problem, create new issue.
+
+**PLEASE READ LICENSE FILE**
+
 3D PC SANDBOX game and installer is on ringwormGO GitHub site/repo.
-Bok.. Bb..
 
-This GitHub will contains WM Vare files and tutorials.
-
-Door comany hasn't got any pause.
 Bok.. Bb..
 
 If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
-If you can see code, then create new file and copy code.
 
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
