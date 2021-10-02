@@ -11,7 +11,7 @@ If you have a problem, create new issue.
 
 **PLEASE READ LICENSE FILE**
 
-3D PC SANDBOX game and installer is on ringwormGO GitHub site/repo.
+3D PC SANDBOX and Chrominium browser2 is on ringwormGO GitHub site/repo.
 
 Bok.. Bb..
 
