@@ -1,9 +1,7 @@
 # Door-Project
 All about software.
 
-Big thanks to ringwormGO.
-
-See their site: https://github.com/ringwormGO/ringwormGO
+Big thanks to ringwormGO (https://github.com/ringwormGO/ringwormGO)
 
 Our game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
