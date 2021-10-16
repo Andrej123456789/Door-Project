@@ -23,4 +23,4 @@ Windows 8.1, Windows 10 or Windows 11 64 bit device
 Minimum max. speed of processor 1.10 GHz
 
 # VIRUS
-Find viruses in main branch.
+https://github.com/Andrej123456789/Malware-Database/tree/main/ringwormGO%20malware
