@@ -15,6 +15,9 @@ Bok.. Bb..
 
 Python OS 2.0 requires psutil library
 
+# Discord server
+https://discord.gg/zyzbdrDRQF
+
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
 
