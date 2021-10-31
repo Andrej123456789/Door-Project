@@ -3,26 +3,24 @@ All about software.
 
 Big thanks to ringwormGO (https://github.com/ringwormGO/ringwormGO)
 
-Our game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
-
-If you have a problem, create new issue.
+If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue
 
 **PLEASE READ LICENSE FILE**
 
-3D PC SANDBOX and Chrominium browser2 is on ringwormGO GitHub site/repo.
-
-Bok.. Bb..
+3D PC SANDBOX and ringwormGO second generation browser is on ringwormGO GitHub repo.
 
 Python OS 2.0 requires psutil library
 
-# Discord server
-https://discord.gg/zyzbdrDRQF
+# Web sites
+Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
 
 Windows 8.1, Windows 10 or Windows 11 64 bit device
+
 64MB of free RAM
+
 Minimum max. speed of processor 1.10 GHz
 
 # VIRUS
