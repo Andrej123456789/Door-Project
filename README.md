@@ -13,6 +13,9 @@ We accept contributors for some projects.
 
 Python OS 2.0 requires psutil library
 
+# Announcements / Updates
+On 1.1.2022 most of ringwormGO/Door applications will be available on Linux
+
 # Web sites
 Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
