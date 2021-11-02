@@ -28,5 +28,14 @@ Windows 8.1, Windows 10 or Windows 11 64 bit device
 
 Minimum max. speed of processor 1.10 GHz
 
+# Schedule
+Usual commits happen every month with small updates/bug fixes in the meantime
+
+VACATIONS: (small updates/bug fixes during vacation may still happen)
+
+Winter vacation: From 21.12 to 6.1
+
+Summer vacation: From 21.6 to 31.7
+
 # VIRUS
 https://github.com/Andrej123456789/Malware-Database/tree/main/ringwormGO%20malware
