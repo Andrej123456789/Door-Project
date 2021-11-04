@@ -2,6 +2,9 @@
 ringOS is UEFI operating system
 ringOSY is BIOS operating system
 
+# Automatic Build Tool:
+https://github.com/Andrej123456789/Door-Project/blob/main/ringOS/ringOS-Builder-full.sh
+
 # System requiratmens for ringOS/ringOSY:
   https://github.com/Andrej123456789/ringOS#system-requiratmens
   
