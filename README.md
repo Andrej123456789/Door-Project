@@ -13,8 +13,14 @@ We accept contributors for some projects.
 
 Python OS 2.0 requires psutil library
 
-# Announcements / Updates
-On 1.1.2022 most of ringwormGO/Door applications will be available on Linux
+# Schedule
+Usual commits happen every month with small updates/bug fixes in the meantime
+
+VACATIONS: (small updates/bug fixes during vacation may still happen)
+
+Winter vacation: From 21.12 to 6.1
+
+Summer vacation: From 21.6 to 31.7
 
 # Web sites
 Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
@@ -26,16 +32,10 @@ Windows 8.1, Windows 10 or Windows 11 64 bit device
 
 64MB of free RAM
 
-Minimum max. speed of processor 1.10 GHz
+Minimum max. speed of processor 1.10 GHz   
 
-# Schedule
-Usual commits happen every month with small updates/bug fixes in the meantime
-
-VACATIONS: (small updates/bug fixes during vacation may still happen)
-
-Winter vacation: From 21.12 to 6.1
-
-Summer vacation: From 21.6 to 31.7
+# Announcements / Updates
+On 1.1.2022 most of ringwormGO/Door applications will be available on Linux
 
 # VIRUS
 https://github.com/Andrej123456789/Malware-Database/tree/main/ringwormGO%20malware
