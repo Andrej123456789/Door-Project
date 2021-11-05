@@ -1,7 +1,7 @@
 # Door-Project
 All about software.
 
-Big thanks to ringwormGO (https://github.com/ringwormGO/ringwormGO)
+Big thanks to ringwormGO
 
 Most of our stuff is made in Visual Studio 2019/VS Code
 
@@ -28,6 +28,8 @@ Summer vacation: From 21.6 to 31.7
 
 # Web sites
 Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
+
+ringwormGO GitHub repo: https://github.com/ringwormGO/ringwormGO
 
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
