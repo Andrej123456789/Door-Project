@@ -3,7 +3,9 @@ All about software.
 
 Big thanks to ringwormGO (https://github.com/ringwormGO/ringwormGO)
 
-If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue.
+If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue
+
+IF THERE ARE NO UPDATES (or repo is archived) THEN PROJECT IS CLOSED (unless we are on vacation)
 
 We accept contributors for some projects.
 
@@ -37,5 +39,5 @@ Minimum max. speed of processor 1.10 GHz
 # Announcements / Updates
 On 1.1.2022 most of ringwormGO/Door applications will be available on Linux
 
-# VIRUS
+# MALWARE DATABASE
 https://github.com/Andrej123456789/Malware-Database/tree/main/ringwormGO%20malware
