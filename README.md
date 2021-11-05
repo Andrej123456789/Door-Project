@@ -3,6 +3,8 @@ All about software.
 
 Big thanks to ringwormGO (https://github.com/ringwormGO/ringwormGO)
 
+Most of our stuff is made in Visual Studio 2019/VS Code
+
 If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue
 
 IF THERE ARE NO UPDATES (or repo is archived) THEN PROJECT IS CLOSED (unless we are on vacation)
