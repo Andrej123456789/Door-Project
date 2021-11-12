@@ -13,7 +13,7 @@ We accept contributors for some projects.
 
 **PLEASE READ LICENSE FILE**
 
-3D PC SANDBOX and ringwormGO second generation browser is on ringwormGO GitHub repo.
+ringwormGO second generation browser is on ringwormGO GitHub repo.
 
 Python OS 2.0 requires psutil library
 
@@ -28,6 +28,8 @@ Summer vacation: From 21.6 to 31.7
 
 # Web sites
 Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
+
+3D PC SANDBOX: https://github.com/Andrej123456789/3D-PC-Sandbox
 
 ringwormGO GitHub repo: https://github.com/ringwormGO/ringwormGO
 
