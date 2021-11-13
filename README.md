@@ -1,8 +1,6 @@
 # Door-Project
 All about software.
 
-Big thanks to ringwormGO
-
 Most of our stuff is made in Visual Studio 2019/VS Code
 
 If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue
@@ -31,7 +29,9 @@ Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
 3D PC SANDBOX: https://github.com/Andrej123456789/3D-PC-Sandbox
 
-ringwormGO GitHub repo: https://github.com/ringwormGO/ringwormGO
+ringwormGO GitHub repo (old): https://github.com/ringwormGO/ringwormGO
+
+ringwormGO GitHub repo(new): https://github.com/ringwormGO-organization/ringwormGO
 
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
