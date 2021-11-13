@@ -33,6 +33,8 @@ ringwormGO GitHub repo (old): https://github.com/ringwormGO/ringwormGO
 
 ringwormGO GitHub repo(new): https://github.com/ringwormGO-organization/ringwormGO
 
+*Links maybe are showing wrong creator of repo, but link will redirect to official repo*
+
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
 
