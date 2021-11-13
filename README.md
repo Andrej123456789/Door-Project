@@ -1,3 +1,7 @@
+# THIS REPO WILL NOT BE ACTIVE, WE MOVED PROJECTS TO: https://github.com/ringwormGO-organization/ringwormGO
+
+# THIS REPO WILL BE ARCHIVED
+
 # Door-Project
 All about software.
 
@@ -32,6 +36,10 @@ Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 ringwormGO GitHub repo (old): https://github.com/ringwormGO/ringwormGO
 
 ringwormGO GitHub repo(new): https://github.com/ringwormGO-organization/ringwormGO
+
+mbal: https://github.com/ringwormGO-organization/mbal
+
+ringOS: https://github.com/ringwormGO-organization/ringOS
 
 *Links maybe are showing wrong creator of repo, but link will redirect to official repo*
 
